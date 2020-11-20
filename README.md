@@ -1,3 +1,3 @@
 # LinearRegression
 
-Simple handcrafting implementation of linear regression + gradient descent optimization with tensorflow.
+Simple handcrafting and sequntial implementation of linear regression + gradient descent optimization with tensorflow.
